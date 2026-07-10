@@ -111,10 +111,4 @@ Contribuições são bem-vindas! Para contribuir:
 4. Push para a branch (`git push origin feature/MinhaFeature`)
 5. Abra um Pull Request
 
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
-
----
-
 **Desenvolvido com ❤️**
